@@ -1,0 +1,8 @@
+{
+    "linterPrefs": {
+        "requireFields": true,
+        "specTypeInst": true,
+        "specTypeVar": true
+    },
+    "templateStringScript": "sfmt"
+}
