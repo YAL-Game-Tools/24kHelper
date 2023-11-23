@@ -10,3 +10,13 @@ more enjoyable on a gamepad. It currently does two things:
 - Enables to do mouse input with a gamepad for the Claw blessing.  
   If you are unfamiliar, Claw allows you to grab and move Home with a mouse.  
   The tool translates 
+
+## Building
+
+Open the project file in [GameMaker](https://gamemaker.io) and compile for Windows.
+
+If you'd like to compile everything from scratch, the extensions are:
+- [display_mouse_sim](https://github.com/YAL-GameMaker/display_mouse_sim)
+- [gamepad_force_focus](https://yellowafterlife.itch.io/gamemaker-gamepad-force-focus)
+- [dinput8hook](https://github.com/nkrapivin/dinput8hook)
+- window_get_active_title (in subdirectory)
